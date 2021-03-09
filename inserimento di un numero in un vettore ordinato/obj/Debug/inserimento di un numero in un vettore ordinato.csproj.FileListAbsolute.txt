@@ -1,0 +1,10 @@
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\bin\Debug\inserimento di un numero in un vettore ordinato.exe.config
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\bin\Debug\inserimento di un numero in un vettore ordinato.exe
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\bin\Debug\inserimento di un numero in un vettore ordinato.pdb
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento di un numero in un vettore ordinato.csprojAssemblyReference.cache
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento_di_un_numero_in_un_vettore_ordinato.Form1.resources
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento_di_un_numero_in_un_vettore_ordinato.Properties.Resources.resources
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento di un numero in un vettore ordinato.csproj.GenerateResource.cache
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento di un numero in un vettore ordinato.csproj.CoreCompileInputs.cache
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento di un numero in un vettore ordinato.exe
+F:\SCUOLA PT.2\INFORMATICA\inserimento di un numero in un vettore ordinato\obj\Debug\inserimento di un numero in un vettore ordinato.pdb
